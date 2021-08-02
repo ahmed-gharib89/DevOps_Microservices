@@ -6,6 +6,7 @@ setup:
 
 env:
 	#Show information about environment
+	uname -a
 	which python3
 	python3 --version
 	which pytest
